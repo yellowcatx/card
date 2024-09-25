@@ -20,7 +20,8 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
 - Design responsivo que adapta-se a diferentes tamanhos de tela.
 
   ## 💻 Resultado
-  (https://yellowcatx.github.io/card/)
+  [Resultado}(https://yellowcatx.github.io/card/).
+  
 
 ## 💻 Como Executar o Projeto
 
