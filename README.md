@@ -19,6 +19,9 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
 - Mudança de cor ao passar o mouse sobre o título do post.
 - Design responsivo que adapta-se a diferentes tamanhos de tela.
 
+  ## 💻 Resultado
+  (https://yellowcatx.github.io/card/)
+
 ## 💻 Como Executar o Projeto
 
 1. Clone este repositório:
@@ -31,7 +34,6 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
     Como estruturar um layout com HTML e CSS.
     Uso de @font-face para fontes customizadas.
     Aplicar efeitos de transição em estados de hover.
-    E aqui está p resultado [Frontend Mentor](https://yellowcatx.github.io/card/)
 
 📝 Melhorias Futuras
 
