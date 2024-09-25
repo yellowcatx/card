@@ -24,7 +24,7 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/yellowcatx/card.git
 
 📚 O que Aprendi
 
