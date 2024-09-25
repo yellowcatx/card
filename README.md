@@ -19,9 +19,9 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
 - Mudança de cor ao passar o mouse sobre o título do post.
 - Design responsivo que adapta-se a diferentes tamanhos de tela.
 
-  ## 💻 Resultado
-  [Resultad](https://yellowcatx.github.io/card/).
-  
+## 💻 Resultado
+  [Resultado](https://yellowcatx.github.io/card/).
+  ![card](https://github.com/yellowcatx/card/blob/296230dd8b3801436705dfa37365333562416de7/screenshot.png)
 
 ## 💻 Como Executar o Projeto
 
