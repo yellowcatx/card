@@ -31,6 +31,7 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
     Como estruturar um layout com HTML e CSS.
     Uso de @font-face para fontes customizadas.
     Aplicar efeitos de transição em estados de hover.
+    E aqui está p resultado [Frontend Mentor](https://yellowcatx.github.io/card/)
 
 📝 Melhorias Futuras
 
