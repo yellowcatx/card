@@ -39,4 +39,4 @@ Este projeto consiste em um cartão de visualização de blog simples que exibe 
 
 🧑‍💻 Autor
 
-    Seu Nome - LinkedIn | Frontend Mentor | GitHub
+    Isobel - LinkedIn | Frontend Mentor | GitHub
